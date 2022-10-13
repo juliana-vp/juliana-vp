@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Dev em Dobro 😁
+## Bem-vindo(a) ao perfil do juliana-vp 😁
 
  <div>
    <a href="https://github.com/julina-vp">
@@ -13,8 +13,7 @@
 </div>
  
  <br>
- 
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+
  
 <div> 
  
