@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do juliana-vp 😁
+## Bem-vindo(a) ao perfil da juliana-vp 😁
 
  <div>
    <a href="https://github.com/julina-vp">
